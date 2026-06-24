@@ -9,7 +9,7 @@
     "lint": "echo \"No lint configured\""
   },
   "dependencies": {
-    "@quant/shared": "workspace:*",
+    "@quant/shared": "file:../shared",
     "discord.js": "^14.16.3",
     "dotenv": "^16.4.5"
   },
